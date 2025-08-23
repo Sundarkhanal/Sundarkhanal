@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sundarkhanal" alt="sundarkhanal" /></a> </p>
 
-- 🔭 I’m currently working on dynamic website  **Rato Bhale Resturant**
+
 
 - 🌱 I’m currently learning **Python || Django || PostgreSQL**
 
