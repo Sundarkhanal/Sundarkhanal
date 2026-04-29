@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sundar Khanal</h1>
-<h3 align="center">A passionate python developer</h3>
+<h3 align="center">A passionate MERN Stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sundarkhanal&label=Profile%20views&color=0e75b6&style=flat" alt="sundarkhanal" /> </p>
 
@@ -7,13 +7,11 @@
 
 
 
-- 🌱 I’m currently learning **Python || Django || PostgreSQL**
+- 🌱 I’m currently learning **Javascript || Nodejs || Expressjs || Mangodb**
 
-- 👯 I’m looking to collaborate on **Python Projects**
+- 👯 I’m looking to collaborate on **Full Stack Projects**
 
 - 👨‍💻 All of my projects are available at [www.sundarkhanal.com.np](www.sundarkhanal.com.np)
-
-- 💬 Ask me about **Python || Django || Git**
 
 - 📫 How to reach me **sundarkhanal62@gmail.com**
 
